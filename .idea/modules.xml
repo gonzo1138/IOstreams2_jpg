@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/IOstream2_jpg.iml" filepath="$PROJECT_DIR$/IOstream2_jpg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOstream2_bmp.iml" filepath="$PROJECT_DIR$/IOstream2_bmp.iml" />
     </modules>
   </component>
 </project>
